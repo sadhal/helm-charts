@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mychart-test1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-02T11:16:02.589882151+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a53f8059de3d190bff8c3708720f1b6b836050c8e8874ec7bedfd293909268df
+    name: mychart-test1
+    urls:
+    - https://sadmir.se/helm-charts/test1/mychart-test1-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-02T11:16:02.589411643+01:00"
