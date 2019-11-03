@@ -3,7 +3,16 @@ entries:
   mychart-test1:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-11-03T23:18:57.493846363+01:00"
+    created: "2019-11-04T00:35:15.152233758+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 3171e53167ec487e9352ccdd996bb5d4a3828334ff5e62b14d4fe33a4db5411e
+    name: mychart-test1
+    urls:
+    - https://sadmir.se/helm-charts/mychart-test1-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-04T00:35:15.152801408+01:00"
     description: A Helm chart for Kubernetes
     digest: a8fdc1ac1df34d79aa06e152d3c0c27a38a192e5d0ab89dd2e2fe095a2c0f6bf
     name: mychart-test1
@@ -12,11 +21,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-11-03T23:18:57.493506061+01:00"
+    created: "2019-11-04T00:35:15.152503118+01:00"
     description: A Helm chart for Kubernetes
-    digest: 652f5ef26fae098dacfff689c6748f3e96b09ac5ad4c078fb8be056c9a1df693
+    digest: a53f8059de3d190bff8c3708720f1b6b836050c8e8874ec7bedfd293909268df
     name: mychart-test1
     urls:
     - https://sadmir.se/helm-charts/test1/mychart-test1-0.1.0.tgz
     version: 0.1.0
-generated: "2019-11-03T23:18:57.492888103+01:00"
+generated: "2019-11-04T00:35:15.151817303+01:00"
